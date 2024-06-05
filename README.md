@@ -6,6 +6,13 @@ Our site features seamless functionality for login, notifications, account secur
 # Some photos
 ![1](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/f28d7865-830e-4156-8d05-7cf2807fa9cf)
 ![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/fffd68b9-ad81-4667-ae5a-9dad65d7d73b)
+![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/32fa6d4b-b8d1-484c-a590-dc041dafe79f)
+![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/e5bb4730-5efe-4c8a-b3f3-9c64507ba632)
+( As an example, I am sending a message to a Discord channel; you can customize it as you wish. )
+
+![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/e6418f64-5cc7-4e73-8ff7-dc02639a15c3)
+( A system for preventing multiple notifications within 24 hours. )
+
 # Database
 ![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/8c0f7923-9a26-4f52-81c4-53f0ec05b0b2)
 ![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/f9370195-446a-4915-bc07-302a965dccd1)
