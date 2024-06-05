@@ -1,7 +1,7 @@
 # Hacklink Dashboard
 Instead of manually entering your websites, you can directly use those in JSON format by importing them into MongoDB. There is no payment section on the site. Each user can make a notification only once within 24 hours after making a payment; they cannot use it a second time. The timer within the system starts after the link is purchased.
 
-Our site features seamless functionality for login, notifications, account security (IP logging), and a ticket system. Below, I am sharing some photos; however, for security reasons, I have chosen not to display the link area. If you need more details, please contact me via my Discord address.
+Our site features seamless functionality for login, notifications, account security (IP logging), and a ticket system. Below, I am sharing some photos; however, for security reasons, I have chosen not to display the link area. If you need more details, please contact me via my <a href="https://discord.com/users/1067476859933179954"> Discord </a> address.
 
 # Login Indexs
 ![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/18deb977-2fa0-4a6a-96d2-0448a91cd5b6)
