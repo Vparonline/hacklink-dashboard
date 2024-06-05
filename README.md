@@ -3,6 +3,12 @@ Instead of manually entering your websites, you can directly use those in JSON f
 
 Our site features seamless functionality for login, notifications, account security (IP logging), and a ticket system. Below, I am sharing some photos; however, for security reasons, I have chosen not to display the link area. If you need more details, please contact me via my Discord address.
 
+# Login Indexs
+![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/18deb977-2fa0-4a6a-96d2-0448a91cd5b6)
+
+# Register Indexs
+![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/580eed75-cf77-4048-a04d-8097d559a295)
+
 # Some photos
 ![1](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/f28d7865-830e-4156-8d05-7cf2807fa9cf)
 ![image](https://github.com/Vparonline/hacklink-dashboard/assets/74346832/fffd68b9-ad81-4667-ae5a-9dad65d7d73b)
